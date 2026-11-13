@@ -1,0 +1,1172 @@
+{
+  "bijgewerkt": "2026-11-13T19:30",
+  "opmerkingen": [
+    "Eerste zoektocht, met de hand gestart.",
+    "npofonds.nl was niet bereikbaar: de netwerkinstellingen staan alleen www.npofonds.nl toe, en dat certificaat past niet. Regelingen van het NPO Fonds ontbreken daarom nog.",
+    "De deadlines van Creative Europe MEDIA komen van agenda-sites (euagenda.eu); controleer ze op het EU Funding & Tenders-portaal.",
+    "De data van het IDFA Bertha Fund komen uit zoekresultaten van professionals.idfa.nl. Die site staat nog niet in de netwerkinstellingen, dus de pagina zelf is nog niet geopend.",
+    "Regionale fondsen (Rotterdam, Limburg, Gelderland, Brabant, Noord-Nederland) en omroepcalls zoals Kort!, One Night Stand en De Oversteek leverden nog geen deadlines voor 2027 op."
+  ],
+  "regelingen": [
+    {
+      "naam": "Pitch Filmidee",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "animatie",
+        "documentaire",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Pitch je idee voor een speelfilm, lange animatie of lange documentaire aan een panel van vijf. Alleen na een positieve pitch kun je scenario-ontwikkeling aanvragen.",
+      "voorwaarden": [
+        "Producenten en/of ervaren scenaristen melden aan",
+        "Mondelinge pitch van max. 6 minuten",
+        "Max. 10 projecten per aanmelder per kalenderjaar",
+        "4 pitchrondes per jaar"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2026-12-08",
+          "omschrijving": "indiening ronde 1 (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-03-02",
+          "omschrijving": "indiening ronde 2 (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-05-11",
+          "omschrijving": "indiening ronde 3 (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/pitch-filmidee",
+      "status": "open"
+    },
+    {
+      "naam": "Filmfonds Shorts",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "korte film",
+        "documentaire"
+      ],
+      "omschrijving": "Originele, urgente korte fictie- of documentairefilms van beginnende of ervaren regisseurs; ook KinderKort (korte jeugdfictie).",
+      "voorwaarden": [
+        "Fictie/documentaire 5-60 minuten; KinderKort 5-30 minuten",
+        "Aanvraag door een producent; max. 2 projecten per producent per ronde",
+        "Regisseur en producent moeten aan de ingangseisen voldoen (cv/filmografie)"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-01-26",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-08-24",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/filmfonds-shorts",
+      "status": "open"
+    },
+    {
+      "naam": "Filmfonds Wildcards",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "korte film",
+        "documentaire",
+        "animatie",
+        "talent"
+      ],
+      "omschrijving": "Voor pas afgestudeerden (bachelor, voltijd) van een Nederlandse film- of kunstacademie die hun eindexamenfilm insturen. Winnaars realiseren een nieuw project in hun categorie.",
+      "voorwaarden": [
+        "Eindexamenfilm insturen; categorie documentaire, fictie, animatie of lab",
+        "Twee Wildcards per categorie",
+        "Max. € 3.000 startbudget, plus € 2.500 coaching en € 8.500 voor de producent"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-07-06",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/filmfonds-wildcards",
+      "status": "open"
+    },
+    {
+      "naam": "TalentScope",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "talent",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Talentprogramma voor regisseurs die zich met een korte film of speelfilm hebben bewezen en werken aan hun 1e of 2e speelfilm, met coaching (TorinoFilmLab, ACE Producers, FilmForward).",
+      "voorwaarden": [
+        "Aanvraag door de producent",
+        "Team van regisseur, (co)scenarist en producent",
+        "Bijdragen o.a. € 7.500 regisseur, € 12.000 producent, € 10.000 concept art (animatie)"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-02-09",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/talentscope",
+      "status": "open"
+    },
+    {
+      "naam": "TalentScope Documentaire",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire",
+        "talent",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Programma van ca. 12 maanden (uitgevoerd door IDFA) voor ervaren documentaireregisseurs, gericht op verdieping van hun auteurschap en een nieuw documentaireplan.",
+      "voorwaarden": [
+        "Ervaren documentaireregisseurs; 2 per jaar geselecteerd",
+        "Twee eigen onderzoeksvragen als basis",
+        "Max. € 37.000 ontwikkeling lange documentaire + € 5.000 research/proefopnames"
+      ],
+      "bedrag": "max. € 37.000 (+ extra's)",
+      "deadlines": [
+        {
+          "datum": "2027-03-23",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/talentscope-documentaire",
+      "status": "open"
+    },
+    {
+      "naam": "Ontwikkeling Oase",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Idee-ontwikkeling voor onafhankelijke documentaireregisseurs (met het Cultuurfonds): onderzoek de potentie van een idee voor een lange documentaire (> 70 min).",
+      "voorwaarden": [
+        "Aanvraag door de regisseur",
+        "Filmplan max. 4 A4 en cv/filmografie",
+        "Een project kan per fase max. twee keer worden ingediend"
+      ],
+      "bedrag": "€ 10.000",
+      "deadlines": [
+        {
+          "datum": "2027-02-09",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/ontwikkeling-oase",
+      "status": "open"
+    },
+    {
+      "naam": "Teledoc",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire",
+        "telefilm"
+      ],
+      "omschrijving": "Samenwerking van NPO, CoBO en Filmfonds: een gelaagde documentaire van 75-90 minuten met een eigentijds thema en een Nederlandse connectie, voor tv en bioscoop.",
+      "voorwaarden": [
+        "Voor onafhankelijke, ervaren documentaireregisseurs en producenten",
+        "Indienen via CoBO"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-03-01",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-05-24",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-11",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-11-22",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/teledoc",
+      "status": "open"
+    },
+    {
+      "naam": "Teledoc Campus",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire",
+        "korte film",
+        "talent"
+      ],
+      "omschrijving": "Korte documentaires van 25 minuten door teams van beginnende regisseurs én producenten (NPO, CoBO, NPO-fonds en Filmfonds).",
+      "voorwaarden": [
+        "Teams van beginnende regisseur + producent",
+        "Indienen via CoBO"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-02-15",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-06-07",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-09-20",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-11-29",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/teledoc-campus",
+      "status": "open"
+    },
+    {
+      "naam": "Zappdoc Campus",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire",
+        "korte film",
+        "talent"
+      ],
+      "omschrijving": "Jeugddocumentaires van 15 minuten met een cinematografisch, onconventioneel karakter, voor teams van beginnende makers.",
+      "voorwaarden": [
+        "Teams van beginnende regisseur + producent",
+        "Indienen via CoBO",
+        "Jaarlijks max. 8 ontwikkel- en 4 realiseringsbijdragen"
+      ],
+      "bedrag": "ontwikkeling max. € 5.000, realisering max. € 45.000",
+      "deadlines": [
+        {
+          "datum": "2027-02-08",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-06-07",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-09-20",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-11-25",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/zappdoc-campus",
+      "status": "open"
+    },
+    {
+      "naam": "Zapp Animatie Campus",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "animatie",
+        "talent"
+      ],
+      "omschrijving": "Beginnende animatiemakers groeien van korte animatie door naar langere vormen (NPO, Filmfonds, CoBO).",
+      "voorwaarden": [
+        "Voor beginnende animatiemakers",
+        "Indienen via CoBO"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-02-23",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/zapp-animatie-campus",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Lange Documentaire",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire"
+      ],
+      "omschrijving": "Realisering van majoritair Nederlandse lange documentaires (> 70 minuten) met lef en eigenzinnigheid.",
+      "voorwaarden": [
+        "Aanvraag door een producent",
+        "Majoritair Nederlandse productie",
+        "Extra's mogelijk voor impactplan, marketing en sales deliveries"
+      ],
+      "bedrag": "max. € 275.000",
+      "deadlines": [
+        {
+          "datum": "2027-01-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-06",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-07-06",
+          "omschrijving": "indiening behandeltermijn start na de zomerstop (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-lange-documentaire",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Speelfilm en Lange Animatiefilm",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "animatie"
+      ],
+      "omschrijving": "Realisering van majoritair Nederlandse speelfilms en lange animatiefilms.",
+      "voorwaarden": [
+        "Aanvraag door een producent",
+        "Majoritair Nederlandse productie"
+      ],
+      "bedrag": "max. € 950.000 (budget ≤ € 2 mln) of € 1.200.000 (budget ≥ € 2 mln)",
+      "deadlines": [
+        {
+          "datum": "2027-01-26",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-20",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-07-06",
+          "omschrijving": "indiening behandeltermijn start na de zomerstop (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-speelfilm-en-lange-animatiefilm",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Korte Animatie",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "animatie",
+        "korte film"
+      ],
+      "omschrijving": "Realisering van korte animatiefilms tot 60 minuten, in alle technieken en voor alle leeftijden.",
+      "voorwaarden": [
+        "Aanvraag door een producent",
+        "Fondsbijdrage max. 85% van het productiebudget",
+        "Aanvullend € 5.000 voor distributie mogelijk"
+      ],
+      "bedrag": "max. € 110.000 (≤ 15 min) of € 165.000 (15-60 min)",
+      "deadlines": [
+        {
+          "datum": "2027-01-26",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-20",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-07-06",
+          "omschrijving": "indiening behandeltermijn start na de zomerstop (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-korte-animatie",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Onderzoek & Experiment",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "korte film",
+        "overig"
+      ],
+      "omschrijving": "Realisering van experimentele en onderzoekende films.",
+      "voorwaarden": [
+        "Aanvraag door een producent",
+        "Fondsbijdrage max. 85% van het productiebudget"
+      ],
+      "bedrag": "€ 50.000 tot max. € 100.000",
+      "deadlines": [
+        {
+          "datum": "2027-01-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-06",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-07-06",
+          "omschrijving": "indiening behandeltermijn start na de zomerstop (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-onderzoek-experiment",
+      "status": "open"
+    },
+    {
+      "naam": "Caleidoscoop",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "documentaire",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Alternatieve financieringsroute voor fictie-, non-fictie- of hybride films langer dan 60 minuten die niet in het reguliere traject passen. Ontwikkeling en realisering hebben eigen deadlines.",
+      "voorwaarden": [
+        "Productiebudget max. € 650.000, inclusief ontwikkelkosten",
+        "Presentatie aan de commissie",
+        "KvK-uittreksel aanvrager"
+      ],
+      "bedrag": "productiebudget max. € 650.000",
+      "deadlines": [
+        {
+          "datum": "2027-03-02",
+          "omschrijving": "indiening realisering (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-05-04",
+          "omschrijving": "indiening ontwikkeling (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-09-07",
+          "omschrijving": "indiening realisering (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-12",
+          "omschrijving": "indiening ontwikkeling (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/caleidoscoop",
+      "status": "open"
+    },
+    {
+      "naam": "CineDoc",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire"
+      ],
+      "omschrijving": "Realisering van ambitieuze lange documentaires met potentie voor een breed (inter)nationaal bioscoop- en festivalpubliek, van regisseurs die zich al bewezen hebben.",
+      "voorwaarden": [
+        "Productiebudget minimaal € 850.000",
+        "Max. 3 documentaires per jaar",
+        "Visie op uitbreng en marketing vereist"
+      ],
+      "bedrag": "max. € 450.000",
+      "deadlines": [
+        {
+          "datum": "2027-03-10",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/cinedoc",
+      "status": "open"
+    },
+    {
+      "naam": "Cinescoop",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "animatie"
+      ],
+      "omschrijving": "Realisering van ambitieuze speelfilms en lange animatiefilms met potentie voor een breed (inter)nationaal bioscooppubliek.",
+      "voorwaarden": [
+        "Productiebudget minimaal € 4 miljoen",
+        "Max. 4 films per jaar",
+        "Regisseur met bewezen eerder werk"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-03-10",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/cinescoop",
+      "status": "open"
+    },
+    {
+      "naam": "De Verbeelding",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Voor beeldend kunstenaars die samen met een filmproducent een artistieke film van speelfilmlengte ontwikkelen en realiseren (met het Mondriaan Fonds).",
+      "voorwaarden": [
+        "Productiemaatschappij is hoofdaanvrager, samen met de beeldend kunstenaar",
+        "Max. 4 projecten voor ontwikkeling, max. 2 voor realisering"
+      ],
+      "bedrag": "ontwikkeling max. € 25.000; realisering max. € 500.000",
+      "deadlines": [
+        {
+          "datum": "2027-05-11",
+          "omschrijving": "indiening ontwikkeling (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/de-verbeelding",
+      "status": "open"
+    },
+    {
+      "naam": "Slate funding voor Scenario-Ontwikkeling",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "ontwikkeling",
+        "speelfilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "Financiering voor twee jaar voor de ontwikkeling van 4 tot 6 scenario's (speelfilm, lange animatie, lange documentaire) in één keer.",
+      "voorwaarden": [
+        "Voor productiemaatschappijen die aan de ingangseisen voldoen",
+        "Max. 2 keer aaneengesloten slate funding"
+      ],
+      "bedrag": "max. € 420.000 per twee jaar",
+      "deadlines": [
+        {
+          "datum": "2027-03-09",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/slatefunding-voor-scenario-ontwikkeling",
+      "status": "open"
+    },
+    {
+      "naam": "Immerse\\Interact",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "overig",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Samen met het Stimuleringsfonds Creatieve Industrie: ontwikkeling en realisering van immersieve (VR/MR/AR) en interactieve storytelling.",
+      "voorwaarden": [
+        "Ontwikkeling en realisering mogelijk",
+        "Max. 6 ontwikkelbijdragen per ronde"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-03-10",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-09-02",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/immerse-interact",
+      "status": "open"
+    },
+    {
+      "naam": "Benelux Co-Development",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "animatie",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Aanvullende ontwikkelfinanciering voor fictie- of animatieprojecten die al ontwikkelsteun kregen van een deelnemend Benelux-fonds.",
+      "voorwaarden": [
+        "Gedelegeerde producent heeft een eerdere bioscoopspeelfilm",
+        "Onafhankelijk productiehuis (rechtspersoon), min. 2 jaar gevestigd",
+        "Max. 3 projecten per jaar"
+      ],
+      "bedrag": "€ 50.000 per speelfilm",
+      "deadlines": [
+        {
+          "datum": "2027-03-16",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/benelux-co-development",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Minoritaire Coproductie Speelfilm, Lange Animatiefilm en Documentaire",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "animatie",
+        "documentaire"
+      ],
+      "omschrijving": "Realisering van een Nederlands minoritaire coproductie.",
+      "voorwaarden": [
+        "Aanvrager heeft verfilmingsrechten voor de Benelux of Nederland",
+        "Pro rata deel in wereldopbrengsten"
+      ],
+      "bedrag": "documentaire max. € 90.000; speelfilm max. € 250.000 (budget > € 5 mln: € 450.000)",
+      "deadlines": [
+        {
+          "datum": "2027-01-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-03-02",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-05-04",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-08-24",
+          "omschrijving": "indiening deze deadline geldt niet voor documentaire (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-05",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-minoritaire-coproductie-speelfilm-lange-animatiefilm-documentaire",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Minoritaire Coproductie Korte Animatie en Onderzoek & Experiment",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "animatie",
+        "korte film"
+      ],
+      "omschrijving": "Realisering van eigenzinnige minoritaire coproducties in korte animatie (max. 60 min) en onderzoek & experiment.",
+      "voorwaarden": [
+        "Aanvrager heeft rechten voor (bij voorkeur) de Benelux"
+      ],
+      "bedrag": "max. € 50.000",
+      "deadlines": [
+        {
+          "datum": "2027-01-12",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-05-04",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-05",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-minoritaire-coproductie-korte-animatie-en-onderzoek",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Minoritaire Coproductie i.s.m. VAF",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "documentaire"
+      ],
+      "omschrijving": "Nederlands-Vlaamse coproducties (met het Vlaams Audiovisueel Fonds): jaarlijks max. 4 speelfilms en 3 documentaires per territorium.",
+      "voorwaarden": [
+        "Uitbreng in België én Nederland",
+        "Een project kan max. twee keer worden ingediend"
+      ],
+      "bedrag": "speelfilm max. € 200.000; documentaire max. € 50.000",
+      "deadlines": [
+        {
+          "datum": "2027-01-19",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-13",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-08-31",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-minoritaire-coproductie-ism-vaf",
+      "status": "open"
+    },
+    {
+      "naam": "Realisering Minoritaire Coproductie i.s.m. HBF",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "documentaire"
+      ],
+      "omschrijving": "Minoritaire coproducties die eerder HBF-steun voor script- en projectontwikkeling kregen (met het Hubert Bals Fund).",
+      "voorwaarden": [
+        "Eerdere HBF-ontwikkelsteun vereist",
+        "Productiebudget max. € 1.200.000",
+        "Max. 4 coproducties per jaar"
+      ],
+      "bedrag": "max. € 75.000",
+      "deadlines": [
+        {
+          "datum": "2027-03-09",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-05-11",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-26",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/realisering-minoritaire-coproductie-ism-hbf",
+      "status": "open"
+    },
+    {
+      "naam": "Thuthuka",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "Ontwikkeling en realisering van gelijkwaardige Nederlands-Zuid-Afrikaanse coproducties voor de bioscoop.",
+      "voorwaarden": [
+        "Gelijkwaardige coproductie met Zuid-Afrika",
+        "Inhoud met een Zuid-Afrikaanse en Nederlandse connectie"
+      ],
+      "bedrag": "realisering: speelfilm max. € 250.000, documentaire max. € 100.000",
+      "deadlines": [
+        {
+          "datum": "2026-12-07",
+          "omschrijving": "indiening realisering (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/thuthuka",
+      "status": "open"
+    },
+    {
+      "naam": "Studio Caribe Realisering",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "korte film",
+        "talent"
+      ],
+      "omschrijving": "Realisering van korte (jeugd)films van makers uit Aruba, Bonaire, Curaçao, Saba, St. Eustatius, St. Maarten of Suriname die eerder Studio Caribe Ontwikkeling kregen.",
+      "voorwaarden": [
+        "Eerdere bijdrage Studio Caribe Ontwikkeling vereist",
+        "Film 5-30 minuten (animatie 1-30)"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-03-02",
+          "omschrijving": "indiening (uiterlijk 23:59)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/studio-caribe-realisering",
+      "status": "open"
+    },
+    {
+      "naam": "Netherlands Film Production Incentive Filmproducties",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "speelfilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "Cash rebate tot 35% op kwalificerende Nederlandse productiekosten van film- en documentaireproducties.",
+      "voorwaarden": [
+        "Aanvraag door een producent",
+        "Max. € 3 mln per aanvrager per jaar",
+        "Puntensysteem bepaalt de bijdrage"
+      ],
+      "bedrag": "max. 35% cash rebate",
+      "deadlines": [
+        {
+          "datum": "2027-01-25",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-19",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-08-30",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-25",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/netherlands-film-production-incentive",
+      "status": "open"
+    },
+    {
+      "naam": "Netherlands Film Production Incentive High-End Series",
+      "fonds": "Nederlands Filmfonds",
+      "categorieen": [
+        "telefilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "Cash rebate voor majoritaire en minoritaire high-end series (drama, documentaire, animatie).",
+      "voorwaarden": [
+        "Minimale minutenprijs, bijv. drama € 12.000/min, documentaire € 4.000/min",
+        "Max. € 3 mln per aanvrager per jaar"
+      ],
+      "bedrag": "max. 35% cash rebate",
+      "deadlines": [
+        {
+          "datum": "2027-01-25",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-04-19",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        },
+        {
+          "datum": "2027-10-25",
+          "omschrijving": "indiening (uiterlijk 17:00)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.filmfonds.nl/subsidies/subsidie/netherlands-film-production-incentive-high-end-series",
+      "status": "open"
+    },
+    {
+      "naam": "Telefilm",
+      "fonds": "CoBO / NPO",
+      "categorieen": [
+        "telefilm",
+        "speelfilm"
+      ],
+      "omschrijving": "Nederlandstalige films van ca. 90 minuten voor een eerste vertoning op NPO Start. Ronde 2026 (uitzending 2027/2028): 5 Telefilms naar waargebeurde verhalen; 10 bijdragen voor scenario-uitwerking.",
+      "voorwaarden": [
+        "Alleen voor ervaren film-/tv-producenten",
+        "Max. 2 indieningen per producent; regisseurs en schrijvers max. 2",
+        "Productiebudget max. € 1.050.000; € 30.000 per ontwikkelfase"
+      ],
+      "bedrag": "productie max. € 1.050.000",
+      "deadlines": [
+        {
+          "datum": "2026-10-19",
+          "omschrijving": "indiening ronde 2026 (verlopen)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.cobofonds.nl/regelingen/telefilm/",
+      "status": "verwacht"
+    },
+    {
+      "naam": "CoBO-bijdrage documentaire en speelfilm (coproductie met omroep)",
+      "fonds": "CoBO",
+      "categorieen": [
+        "documentaire",
+        "speelfilm"
+      ],
+      "omschrijving": "Aanvullende CoBO-bijdrage voor coproducties met de publieke omroep, o.a. documentaire 1:10 (met bioscoopuitbreng) en documentaire 1:5 (impact).",
+      "voorwaarden": [
+        "Aanvraag via de coproducerende omroep",
+        "Documentaire 1:10: bioscoopuitbreng min. 6 maanden voor uitzending, max. € 150.000",
+        "Documentaire 1:5: min. vijf vertoningen buiten de omroep"
+      ],
+      "bedrag": "documentaire 1:10 max. € 150.000",
+      "deadlines": [
+        {
+          "datum": "2026-12-04",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-02-03",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-03-03",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-04-07",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-04-30",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-06-02",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-07-02",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-08-25",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-10-01",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-11-05",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        },
+        {
+          "datum": "2027-12-07",
+          "omschrijving": "inleverdatum voor de volgende CoBO-bestuursvergadering"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.cobofonds.nl/regelingen/documentaire/",
+      "status": "open"
+    },
+    {
+      "naam": "Ongeschreven regels",
+      "fonds": "VPRO",
+      "categorieen": [
+        "documentaire",
+        "korte film",
+        "talent"
+      ],
+      "omschrijving": "Nieuwe regisseurs maken met VPRO een korte documentaire van 10-15 minuten voor NPO2 en NPO Start, met begeleiding en workshops.",
+      "voorwaarden": [
+        "Min. één eerdere korte film geregisseerd (of daar wezenlijk bij betrokken)",
+        "Aanmelden met een plan of een video"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2026-10-18",
+          "omschrijving": "indiening seizoen 2027 (verlopen)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.vpro.nl/ongeschreven-regels/info/oproep-2027",
+      "status": "verwacht"
+    },
+    {
+      "naam": "IBF Europe",
+      "fonds": "IDFA Bertha Fund",
+      "categorieen": [
+        "documentaire"
+      ],
+      "omschrijving": "Steun voor Europese creatieve documentaires (coproducties met makers uit landen buiten Europa) in de fase van midden-productie tot postproductie.",
+      "voorwaarden": [
+        "Project in de productie- of postproductiefase",
+        "Oplevering uiterlijk 1 december 2027"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-01-15",
+          "omschrijving": "indiening"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://professionals.idfa.nl/training-funding/funding/ibf-europe",
+      "status": "open"
+    },
+    {
+      "naam": "IBF Classic",
+      "fonds": "IDFA Bertha Fund",
+      "categorieen": [
+        "documentaire"
+      ],
+      "omschrijving": "Productie- en postproductiesteun voor documentairemakers uit Afrika, Azië, Latijns-Amerika, het Midden-Oosten en delen van Oost-Europa.",
+      "voorwaarden": [
+        "Regisseur afkomstig uit een IBF-land",
+        "Inschrijving opent eind december 2026"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-02-10",
+          "omschrijving": "indiening"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://professionals.idfa.nl/training-funding/funding/about-the-idfa-bertha-fund/",
+      "status": "open"
+    },
+    {
+      "naam": "NFF + IBF Co-production Scheme",
+      "fonds": "IDFA Bertha Fund / Nederlands Filmfonds",
+      "categorieen": [
+        "documentaire"
+      ],
+      "omschrijving": "Voor Nederlandse coproducenten van documentaires die eerder IBF-steun kregen.",
+      "voorwaarden": [
+        "Alleen projecten met eerdere IBF-steun",
+        "Rondes in mei en september 2027; exacte data volgen"
+      ],
+      "bedrag": null,
+      "deadlines": [],
+      "doorlopend": false,
+      "url": "https://professionals.idfa.nl/training-funding/funding/about-the-idfa-bertha-fund/",
+      "status": "verwacht"
+    },
+    {
+      "naam": "HBF Script and Project Development Support",
+      "fonds": "Hubert Bals Fund (IFFR)",
+      "categorieen": [
+        "speelfilm",
+        "documentaire",
+        "ontwikkeling"
+      ],
+      "omschrijving": "Ontwikkelsteun voor (debuut)films van makers uit landen buiten Europa; eerdere ronde was in maart.",
+      "voorwaarden": [
+        "Hetzelfde project kan niet twee keer worden ingediend",
+        "Aanvraagformulier min. twee weken voor de deadline beschikbaar",
+        "Data 2027 nog niet bekend"
+      ],
+      "bedrag": null,
+      "deadlines": [],
+      "doorlopend": false,
+      "url": "https://iffr.com/en/hbf-practical-info-deadlines",
+      "status": "verwacht"
+    },
+    {
+      "naam": "European Slate Development",
+      "fonds": "Creative Europe MEDIA",
+      "categorieen": [
+        "ontwikkeling",
+        "speelfilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "EU-steun voor onafhankelijke producenten die een slate van 3-5 werken ontwikkelen (fictie, creatieve documentaire, animatie); optioneel een korte film van opkomend talent.",
+      "voorwaarden": [
+        "Onafhankelijke Europese productiemaatschappij met trackrecord",
+        "Aanvragen via het EU Funding & Tenders-portaal"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2026-12-01",
+          "omschrijving": "indiening call CREA-MEDIA-2027-DEVSLATE (17:00 Brussel)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.creativeeuropedesk.nl/",
+      "status": "open"
+    },
+    {
+      "naam": "European Co-Development",
+      "fonds": "Creative Europe MEDIA",
+      "categorieen": [
+        "ontwikkeling",
+        "speelfilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "Steun voor de gezamenlijke ontwikkeling van een project door min. twee Europese onafhankelijke productiemaatschappijen.",
+      "voorwaarden": [
+        "Min. twee productiemaatschappijen met een getekende co-development-overeenkomst",
+        "Aanvragen via het EU Funding & Tenders-portaal"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-03-02",
+          "omschrijving": "indiening call CREA-MEDIA-2027-CODEV (17:00 Brussel)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.creativeeuropedesk.nl/",
+      "status": "open"
+    },
+    {
+      "naam": "TV and Online Content",
+      "fonds": "Creative Europe MEDIA",
+      "categorieen": [
+        "telefilm",
+        "documentaire",
+        "animatie"
+      ],
+      "omschrijving": "Productiesteun voor Europese fictie-, documentaire- en animatieseries en -films voor tv en online.",
+      "voorwaarden": [
+        "Onafhankelijke Europese productiemaatschappij",
+        "Betrokkenheid van omroepen/platforms vereist",
+        "Aanvragen via het EU Funding & Tenders-portaal"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-02-10",
+          "omschrijving": "indiening calls CREA-MEDIA-2027-TVONLINE (fictie, documentaire, animatie)"
+        }
+      ],
+      "doorlopend": false,
+      "url": "https://www.creativeeuropedesk.nl/",
+      "status": "open"
+    },
+    {
+      "naam": "Projectsubsidies professionele kunst (film)",
+      "fonds": "Amsterdams Fonds voor de Kunst",
+      "categorieen": [
+        "korte film",
+        "documentaire",
+        "overig"
+      ],
+      "omschrijving": "Projectsubsidie voor Amsterdamse makers en organisaties, waaronder film. Na een aanvraagstop voor de hogere categorieën kun je weer aanvragen vanaf 5 januari 2027, 10:00 uur.",
+      "voorwaarden": [
+        "Voor Amsterdamse makers en projecten",
+        "Controleer de categorie (bedragen boven € 7.500) en het aanvraagvenster"
+      ],
+      "bedrag": null,
+      "deadlines": [
+        {
+          "datum": "2027-01-05",
+          "omschrijving": "aanvragen weer mogelijk vanaf 10:00"
+        }
+      ],
+      "doorlopend": true,
+      "url": "https://www.amsterdamsfondsvoordekunst.nl/",
+      "status": "verwacht"
+    }
+  ]
+}
