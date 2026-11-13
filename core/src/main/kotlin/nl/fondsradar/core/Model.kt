@@ -79,5 +79,13 @@ data class GevondenRegeling(
     val status: String = "",
 )
 
+/**
+ * Het bestand `data/regelingen.json` in de GitHub-repository. De Claude-routine
+ * schrijft het elke twee weken bij; de app haalt het op.
+ */
 @Serializable
-data class ScanPayload(val regelingen: List<GevondenRegeling> = emptyList())
+data class Feed(
+    /** Tijdstip van de laatste zoektocht (ISO-datum of -tijd). */
+    val bijgewerkt: String = "",
+    val regelingen: List<GevondenRegeling> = emptyList(),
+)

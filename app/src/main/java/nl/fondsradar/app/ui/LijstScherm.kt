@@ -80,7 +80,7 @@ fun LijstScherm(openDetail: (String) -> Unit, openInstellingen: () -> Unit) {
     val repo = remember { Repository.get(context) }
     val scope = rememberCoroutineScope()
     val alle by repo.regelingen.collectAsStateWithLifecycle()
-    val scanBezig by rememberScanBezig()
+    val scanBezig by rememberSyncBezig()
 
     var tab by rememberSaveable { mutableStateOf(0) }
     var zoek by rememberSaveable { mutableStateOf("") }
@@ -150,9 +150,8 @@ fun LijstScherm(openDetail: (String) -> Unit, openInstellingen: () -> Unit) {
             if (gefilterd.isEmpty()) {
                 LegeLijst(
                     heeftRegelingen = alle.isNotEmpty(),
-                    heeftSleutel = Instellingen(context).apiKey.isNotBlank(),
-                    openInstellingen = openInstellingen,
-                    zoekNu = { Planning.startScan(context) },
+                    status = Instellingen(context).laatsteSyncStatus,
+                    haalNuOp = { Planning.syncNu(context) },
                 )
             } else {
                 LazyColumn(
@@ -173,21 +172,17 @@ fun LijstScherm(openDetail: (String) -> Unit, openInstellingen: () -> Unit) {
 }
 
 @Composable
-private fun LegeLijst(heeftRegelingen: Boolean, heeftSleutel: Boolean, openInstellingen: () -> Unit, zoekNu: () -> Unit) {
+private fun LegeLijst(heeftRegelingen: Boolean, status: String, haalNuOp: () -> Unit) {
     Box(Modifier.fillMaxSize().padding(32.dp), contentAlignment = Alignment.Center) {
         Column(horizontalAlignment = Alignment.CenterHorizontally) {
             Text(
-                when {
-                    heeftRegelingen -> "Geen regelingen voor dit filter."
-                    !heeftSleutel -> "Stel eerst je Claude API-sleutel in. Daarmee speurt de app elke twee weken het internet af naar regelingen."
-                    else -> "Nog geen regelingen. Start de eerste zoektocht."
-                },
+                if (heeftRegelingen) "Geen regelingen voor dit filter."
+                else "Nog geen regelingen opgehaald." + (if (status.isNotBlank()) "\n$status" else ""),
                 textAlign = TextAlign.Center,
             )
             if (!heeftRegelingen) {
                 Spacer(Modifier.width(8.dp))
-                if (heeftSleutel) TextButton(onClick = zoekNu) { Text("Nu zoeken") }
-                else TextButton(onClick = openInstellingen) { Text("Naar instellingen") }
+                TextButton(onClick = haalNuOp) { Text("Nu ophalen") }
             }
         }
     }

@@ -57,15 +57,14 @@ class CoreTest {
     }
 
     @Test
-    fun parseJsonBlok() {
+    fun parseFeed() {
         val tekst = """
-            Hier is het resultaat.
-            ```json
-            {"regelingen":[{"naam":"Kort!","fonds":"Nederlands Filmfonds","categorieen":["korte film"],
+            {"bijgewerkt":"2026-11-13","regelingen":[{"naam":"Kort!","fonds":"Nederlands Filmfonds","categorieen":["korte film"],
               "deadlines":[{"datum":"2027-03-01","omschrijving":"indiening"}],"doorlopend":false,"bedrag":null,"onbekendVeld":1}]}
-            ```
         """.trimIndent()
-        val r = parseAntwoord(tekst).single()
+        val feed = FeedParser.parse(tekst)
+        assertEquals("2026-11-13", feed.bijgewerkt)
+        val r = feed.regelingen.single()
         assertEquals("Kort!", r.naam)
         assertEquals("2027-03-01", r.deadlines.single().datum)
     }
