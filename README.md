@@ -13,7 +13,7 @@ Je kunt ook zelf deadlines toevoegen en regelingen verbergen. Controleer data al
 
 ## Installeren
 
-1. Download `Fondsradar.apk` uit de [Releases](../../releases) of bouw hem zelf (zie hieronder). Open het bestand op je telefoon en sta installeren uit onbekende bronnen toe.
+1. Download [`apk/Fondsradar.apk`](https://github.com/is89il/fondsradar/raw/main/apk/Fondsradar.apk) of bouw hem zelf (zie hieronder). Open het bestand op je telefoon en sta installeren uit onbekende bronnen toe.
 2. Open de app en sta meldingen toe. De app haalt de regelingen meteen op.
 
 De zoekopdracht bijsturen? Pas [`ROUTINE.md`](ROUTINE.md) aan. De volgende routine gebruikt de nieuwe versie.
